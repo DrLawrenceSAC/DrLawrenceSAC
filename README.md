@@ -16,7 +16,7 @@ Also we will be using collaborative repositories to:
 > This profile is simply an example of what you can make
 
 ## How to make your own profile
-You can make your own profile README.md file from your home dashboard at [GitHub](www.github.com)
+You can make your own profile README.md file from your home dashboard at [GitHub](https://www.github.com)
 
 Click on the "Create Profile ReadMe"
 ![Screenshot of dashboard showning creation link](./2324-TEJ3M-5-1-GithubSetup.png)
